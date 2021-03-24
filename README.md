@@ -23,5 +23,4 @@ After you finished this assignment, deploy your code to https://www.heroku.com/ 
 Deploy with app name : <b>`gpa-express-api-YourStudentCode`</b>
 
 **Write your Heroku deploy link here** : 
-
-https://gpa-express-api-6206xxxxx.herokuapp.com
+https://gpa-express-api-620612146.herokuapp.com/
